@@ -9,10 +9,6 @@ layout: hextra-home
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mt-6">
-{{< figure src="images/backdrop.png"  >}}
-</div>
-
 <div class="hx-mt-6"></div>
 
 {{< hextra/feature-grid >}}
