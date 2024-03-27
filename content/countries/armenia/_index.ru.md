@@ -1,7 +1,7 @@
 ---
-title: АРМЕНИЯ
-description: Инфопроект Короткое Замыкание - Армения
-layout: hextra-home
+title: Армения
+description: Армения
+layout: hextra-single
 draft: true
 ---
 
