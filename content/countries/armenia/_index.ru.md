@@ -1,6 +1,7 @@
 ---
 title: АРМЕНИЯ
 layout: hextra-home
+draft: true
 ---
 
 <div class="hx-mt-6">

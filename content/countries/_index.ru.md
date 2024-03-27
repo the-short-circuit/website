@@ -1,6 +1,7 @@
 ---
 title: ГЕОГРАФИЯ ПРОЕКТА
 layout: hextra-home
+draft: true
 ---
 
 {{< cards >}}
