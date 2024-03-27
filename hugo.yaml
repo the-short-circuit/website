@@ -22,15 +22,15 @@ languages:
 menu:
   main:
     #- identifier: menu-home
-      #pageRef: /
-      #weight: 1
-      #name: Home
+    #pageRef: /
+    #weight: 1
+    #name: Home
     - identifier: menu-about-ms
       pageRef: /about-ms
       weight: 2
-    - identifier: menu-countries
-      pageRef: /countries
-      weight: 3
+    # - identifier: menu-countries
+    #   pageRef: /countries
+    #   weight: 3
     - identifier: menu-support-group
       pageRef: /support-group
       weight: 4
