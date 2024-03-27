@@ -56,3 +56,6 @@ params:
     displayCopyright: false
     displayPoweredBy: false
     width: normal
+
+  images:
+    - images/backdrop.png

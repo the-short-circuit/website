@@ -1,6 +1,7 @@
 ---
 title: Инфопроект Короткое Замыкание
 layout: hextra-home
+description: Инфопроект Короткое Замыкание
 ---
 
 <div class="hx-mt-6 hx-mb-6">

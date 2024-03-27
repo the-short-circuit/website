@@ -1,5 +1,6 @@
 ---
 title: ГРУЗИЯ
+description: Инфопроект Короткое Замыкание - Грузия
 layout: hextra-home
 draft: true
 ---
