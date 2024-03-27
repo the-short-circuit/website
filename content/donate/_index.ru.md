@@ -11,5 +11,5 @@ layout: hextra-single
 Вы также можете поддержать наш проект, сделав перечисление на счет. Средства нужны нам для того, чтобы оказывать помощь более эффективно, а также запускаться в новых странах.
 
 <center>
-{{< paypal_button text="Перечислить на PayPal" id="PDZG5E2KMTUVS" >}}
+{{< paypal_button text="Перечислить на PayPal" id="CXPV9AHLWF5AE" >}}
 </center>
