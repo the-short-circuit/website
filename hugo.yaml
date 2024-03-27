@@ -15,6 +15,7 @@ languages:
     title: Короткое Замыкание
     weight: 1
   en:
+    disabled: true
     languageName: English
     title: The Short Circuit
     weight: 2
@@ -28,15 +29,17 @@ menu:
     - identifier: menu-about-ms
       pageRef: /about-ms
       weight: 2
-    # - identifier: menu-countries
-    #   pageRef: /countries
-    #   weight: 3
+    #- identifier: menu-countries
+    #pageRef: /countries
+    #weight: 3
     - identifier: menu-support-group
       pageRef: /support-group
       weight: 4
     - identifier: menu-donate
       pageRef: /donate
       weight: 5
+
+
 
 params:
   navbar:
