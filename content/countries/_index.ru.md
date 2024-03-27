@@ -1,5 +1,6 @@
 ---
 title: ГЕОГРАФИЯ ПРОЕКТА
+description: Инфопроект Короткое Замыкание - География проекта
 layout: hextra-home
 draft: true
 ---
