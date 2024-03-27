@@ -1,7 +1,7 @@
 ---
-title: ГЕОГРАФИЯ ПРОЕКТА
-description: Инфопроект Короткое Замыкание - География проекта
-layout: hextra-home
+title: География проекта
+description: География проекта
+layout: hextra-single
 draft: true
 ---
 

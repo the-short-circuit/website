@@ -1,7 +1,7 @@
 ---
-title: ГРУППА ПОДДЕРЖКИ
-description: Инфопроект Короткое Замыкание - Группа поддержки
-layout: hextra-home
+title: Группа поддержки
+description: Группа поддержки
+layout: hextra-single
 toc: false
 ---
 
