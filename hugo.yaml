@@ -25,7 +25,6 @@ menu:
     - identifier: menu-home
       pageRef: /
       weight: 1
-      name: Home
     - identifier: menu-about-ms
       pageRef: /about-ms
       weight: 2
