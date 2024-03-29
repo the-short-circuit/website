@@ -34,8 +34,8 @@ menu:
     - identifier: menu-support-group
       pageRef: /support-group
       weight: 4
-    - identifier: menu-donate
-      pageRef: /donate
+    - identifier: menu-help
+      pageRef: /help
       weight: 5
 
 

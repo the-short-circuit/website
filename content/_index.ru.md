@@ -17,7 +17,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Помочь" link="donate" >}}
+{{< hextra/hero-button text="Помочь" link="help" >}}
 </div>
 
 <div class="hx-mt-6"></div>
