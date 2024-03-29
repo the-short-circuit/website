@@ -1,7 +1,10 @@
 ---
 title: Как помочь проекту
 description: Как помочь проекту
-layout: hextra-single
+layout: single
+toc: false
+sidebar:
+  exclude: true
 ---
 
 Если вы хотите поделиться своим опытом о том, как вам удается справиться с болезнью в эмиграции - напишите нам в ТГ на [theshortcircuitorg](https://t.me/theshortcircuitorg).

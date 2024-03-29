@@ -1,7 +1,10 @@
 ---
 title: География проекта
 description: География проекта
-layout: hextra-single
+layout: single
+toc: false
+sidebar:
+  exclude: true
 draft: true
 ---
 

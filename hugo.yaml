@@ -38,6 +38,22 @@ menu:
       pageRef: /help
       weight: 5
 
+  sidebar:
+    - identifier: menu-home
+      pageRef: /
+      weight: 1
+    - identifier: menu-about-ms
+      pageRef: /about-ms
+      weight: 2
+    #- identifier: menu-countries
+      #pageRef: /countries
+      #weight: 3
+    - identifier: menu-support-group
+      pageRef: /support-group
+      weight: 4
+    - identifier: menu-help
+      pageRef: /help
+      weight: 5
 
 
 params:
