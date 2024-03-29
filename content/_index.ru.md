@@ -17,7 +17,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Помочь" link="help" >}}
+{{< hextra/hero-button text="Связаться с нами" link="https://t.me/theshortcircuitorg" >}}
 </div>
 
 <div class="hx-mt-6"></div>
