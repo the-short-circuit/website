@@ -1,23 +1,23 @@
 ---
-title: Короткое Замыкание
-description: Короткое Замыкание
+title: The Short Circuit
+description: The Short Circuit
 layout: hextra-home
 ---
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-Короткое Замыкание
+The Short Circuit
 {{< /hextra/hero-headline >}}
 </div>
 
 <div class="hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  Информационный проект помощи беженцам и эмигрантам с рассеянным склерозом
+  The informational project to aid refugees and immigrants with multiple sclerosis
 {{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx-mb-6">
-{{< hextra/hero-button text="Связаться с нами" link="https://t.me/theshortcircuitorg" >}}
+{{< hextra/hero-button text="Contact us" link="https://t.me/theshortcircuitorg" >}}
 </div>
 
 <div class="hx-mt-6"></div>
@@ -25,33 +25,33 @@ layout: hextra-home
 {{< hextra/feature-grid >}}
     {{< hextra/feature-card
          icon="information-circle"
-         title="Чем мы занимаемся?"
-         subtitle="Сотрудники проекта оказывают информационную и психологическую поддержку беженцам и эмигрантам из Украины, России и Беларуси с подтвержденным диагнозом рассеянный склероз. В первую очередь мы создаем простой и понятный единый алгоритм, как попасть к врачу и получить лекарства по разным протоколам лечения для тех, у кого уже стоит такой диагноз. Мы также помогаем тем, кто только планирует эмигрировать и для кого отсутствие помощи на новом месте может стать препятствием к отъезду."
+         title="What do we do?"
+         subtitle="Project staff provides informational and psychological support to refugees and immigrants from Ukraine, Russia, and Belarus with a confirmed diagnosis of multiple sclerosis. Our primary focus is to create a unified algorithm for accessing medical care and obtaining medications according to various treatment protocols for those who already have such a diagnosis. We also assist those who are planning to immigrate and for whom the lack of support in a new place could be a barrier to departure."
     >}}
     {{< hextra/feature-card
          icon="users"
-         title="Для кого этот проект?"
-         subtitle="Для всех тех, кто планирует продолжать лечение и нуждается во врачебной помощи. Мы можем помочь с контактами врача и другой информацией, но пока не финансируем покупку лекарств."
+         title="Who is this project for?"
+         subtitle="For all those who plan to continue treatment and need medical assistance. We can help with doctor contacts and other information, but we currently do not finance the purchase of medications."
     >}}
     {{< hextra/feature-card
          icon="chevron-right"
-         title="Почему проект так называется?"
-         subtitle="Миелин, на месте которого образуется рубец - это своего рода изолента для направленного проведения сигналов от одного нейрона к другому. Если изоляция перестает работать, то связь прерывается."
+         title="Why is the project named this way?"
+         subtitle="Myelin, which forms scar tissue, is like a tape for the directed transmission of signals from one neuron to another. If the insulation stops working, the connection is interrupted, creating a short circuit."
     >}}
     {{< hextra/feature-card
          icon="globe"
-         title="Где действует проект?"
-         subtitle="На данный момент проект работает только в Грузии, но мы активно ищем волонтеров и врачей-неврологов, специализирующихся на рассеянном склерозе в Армении, Турции, Сербии и других странах."
+         title="Where does the project operate?"
+         subtitle="At the moment, the project operates only in Georgia, but we are actively seeking volunteers and neurologists specializing in multiple sclerosis in Armenia, Turkey, Serbia, and other countries."
     >}}
     {{< hextra/feature-card
          icon="at-symbol"
-         title="Как с нами связаться?"
-         subtitle="Если вы нуждаетесь в помощи, хотите поделиться своей историей или вступить в группу поддержки в Тбилиси, напишите нам в чат в телеграмм **theshortcircuitorg** или на почту **theshortcircuitorg\@gmail.com**."
+         title="How to contact us?"
+         subtitle="If you need assistance, want to share your story, or join a support group in Tbilisi, you can message us on Telegram at **@theshortcircuitorg** or email us at **theshortcircuitorg\@gmail.com**."
     >}}
     {{< hextra/feature-card
          icon="heart"
-         title="Как помочь проекту?"
-         subtitle="Если вы хотите стать волонтером или предложить сотрудничество, напишите на почту **theshortcircuitorg\@gmail.com**. Вы также можете поддержать наш проект финансово или рассказав о нем в соцсетях."
+         title="How to help the project?"
+         subtitle="If you would like to become a volunteer or offer collaboration, please email us at **theshortcircuitorg\@gmail.com**. You can also support our project financially or by sharing about it on social media."
     >}}
 {{< /hextra/feature-grid >}}
 

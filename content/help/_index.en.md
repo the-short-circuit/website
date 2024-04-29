@@ -1,18 +1,18 @@
 ---
-title: Как помочь проекту
-description: Как помочь проекту
+title: How to Help the Project
+description: How to Help the Project
 layout: single
 toc: false
 sidebar:
   exclude: true
 ---
 
-Если вы хотите поделиться своим опытом о том, как вам удается справиться с болезнью в эмиграции - напишите нам в ТГ на [theshortcircuitorg](https://t.me/theshortcircuitorg).
+If you'd like to share your experience of coping with the illness while living abroad, please write to us on Telegram at [@theshortcircuitorg](https://t.me/theshortcircuitorg).
 
-Может быть вы врач-невролог или сотрудник страховой компании, который может рассказать о способах получения лекарств в Грузии, Армении, Сербии или Турции - напишите нам!
+Perhaps you're a neurologist or an employee of an insurance company who can provide insights into obtaining medication in Georgia, Armenia, Serbia, or Turkey – we'd love to hear from you!
 
-Вы также можете поддержать наш проект, сделав перечисление на счет. Средства нужны нам для того, чтобы оказывать помощь более эффективно, а также запускаться в новых странах.
+You can also support our project by making a donation to our account. The funds will help us provide assistance more effectively and expand to new countries.
 
 <center>
-{{< paypal_button text="Перечислить на PayPal" id="CXPV9AHLWF5AE" >}}
+{{< paypal_button text="Donate via Paypal" id="CXPV9AHLWF5AE" >}}
 </center>

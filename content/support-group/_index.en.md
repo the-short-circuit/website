@@ -1,30 +1,30 @@
 ---
-title: Группа поддержки
-description: Группа поддержки
+title: Support Group
+description: Support Group
 layout: single
 toc: false
 sidebar:
   exclude: true
 ---
 
-Присоединяйтесь к очной группе поддержки в Тбилиси! Мы создали такой формат, чтобы могли поговорить о болезни и своих чувствах, побыть с другими людьми, которые находятся в похожей ситуации. Встречи проходят раз в две недели, о локации можно уточнить, написав в ТГ [theshortcircuitorg](https://t.me/theshortcircuitorg).
+Join our in-person support group in Tbilisi! We've created this format so you can talk about your condition, share  your feelings, and spend time with other people who are in a similar situation. Meetings take place every two weeks; you can inquire about the location by messaging us on Telegram at [@theshortcircuitorg](https://t.me/theshortcircuitorg).
 
 {{% steps %}}
 
-### Приходите помолчать
+### Come to listen
 
-На встрече не обязательно говорить, можно просто слушать других.
+You don't have to speak at the meeting; you can simply listen to others.
 
-### Можно взять с собой близких
+### Bring your loved ones
 
-Часто те, кто живет с диагнозом не могут объяснить свое состояние партнеру или родителям. Встреча может послужить таким мостом.
+Often, those living with the diagnosis struggle to explain their condition to partners or parents. The meeting can serve as a bridge in such situations.
 
-### Почувствуйте, что вы не одни
+### Feel that you're not alone
 
-Нам всем так важно побыть среди тех, кто проходит через то же самое и испытывает похожие чувства.
+All of us need to be among those going through the same experiences and feelings.
 
-### Опробуем разные форматы
+### Let's try different formats
 
-Поговорим об организации и проведении спортивных тренировок с разным типом нагрузки.
+We'll discuss organizing and conducting sports training sessions with various types of exercises.
 
 {{% /steps %}}

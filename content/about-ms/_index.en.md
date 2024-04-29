@@ -1,14 +1,14 @@
 ---
-title: Рассеянный склероз
-description: Рассеянный склероз
+title: Multiple Sclerosis
+description: Multiple Sclerosis
 layout: single
 toc: false
 sidebar:
   exclude: true
 ---
 
-Рассеянный склероз  - хроническое аутоиммунное заболевание, при котором поражается миелиновая оболочка проводников головного и спинного мозга. Сегодня это заболевание поддается лечению, его можно эффективно контролировать, что позволяет надолго сохранить активную жизнь и трудоспособность. Важна ранняя диагностика, а также постоянный прием лекарств -  так есть возможность минимизировать прогресс болезни.
+Multiple sclerosis (MS) is a chronic autoimmune disease that affects the myelin sheath of the nerve fibers in the brain and spinal cord. Today, this disease can be treated, and effectively managed, allowing individuals to maintain an active life and productivity for a long time. Early diagnosis, as well as consistent medication, is important, as this can help minimize disease progression.
 
-В мире этим заболеванием страдают около 2–2,5 млн. человек, в среднем распространенность заболеванием около 60 человек на 100 000 населения. Общее количество пациентов с данной болезнью например  в России составляет около 200 тысяч, большинство из них молодые люди в возрасте от 20 до 40 лет. По данным ВОЗ, РС занимает третье место среди заболеваний центральной нервной системы (после сосудистых заболеваний и эпилепсии).
-​
-В эмиграции часто на первый план выходят другие вещи, но прерывать лечение ни в коем случае нельзя, так как это может вызвать обострения и ухудшить прогноз.
+Worldwide, about 2–2.5 million people suffer from this condition, with an average of about 60 individuals per 100,000 population. For example, the total number of patients with this disease in Russia is approximately 200,000, with the majority being young people aged 20 to 40 years. According to the WHO, MS ranks third among central nervous system disorders after vascular diseases and epilepsy.
+
+While other things often take precedence in emigration, it is crucial not to interrupt treatment under any circumstances, as this can lead to exacerbations and worsen the prognosis.
