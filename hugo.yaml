@@ -15,7 +15,6 @@ languages:
     title: Короткое Замыкание
     weight: 1
   en:
-    disabled: true
     languageName: English
     title: The Short Circuit
     weight: 2
