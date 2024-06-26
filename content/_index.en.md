@@ -41,7 +41,7 @@ The Short Circuit
     {{< hextra/feature-card
          icon="globe"
          title="Where does the project operate?"
-         subtitle="At the moment, the project operates only in Georgia, but we are actively seeking volunteers and neurologists specializing in multiple sclerosis in Armenia, Turkey, Serbia, and other countries."
+         subtitle="Consultations for finding doctors and support groups are available in Georgia. Additionally, since June 2024, project specialists have been sharing information on multiple sclerosis treatment methods in Latvia, Germany, and Estonia.<br><br>We are actively seeking volunteers and neurologists specializing in multiple sclerosis in Armenia, Turkey, Serbia, and other countries."
     >}}
     {{< hextra/feature-card
          icon="at-symbol"
