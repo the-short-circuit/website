@@ -76,3 +76,7 @@ params:
 
   images:
     - images/backdrop.png
+
+services:
+  googleAnalytics:
+    ID: G-2L6FDEKBMY
