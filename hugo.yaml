@@ -18,6 +18,10 @@ languages:
     languageName: English
     title: The Short Circuit
     weight: 2
+  ee:
+    languageName: Eesti
+    title: Lühis
+    weight: 3
 
 menu:
   main:
