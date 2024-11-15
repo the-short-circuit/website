@@ -26,7 +26,7 @@ Lühis
     {{< hextra/feature-card
          icon="information-circle"
          title="Mida me teeme?"
-         subtitle="Projekti töötajad pakuvad teavet ja psühholoogilist tuge Ukrainast, Venemaalt ja Valgevenest pärit põgenikele ja immigrantidele, kellel on diagnoositud sclerosis multiplex. Eelkõige loome lihtsat ja arusaadavat ühtset algoritmi, kuidas pääseda arsti juurde ja saada erinevate raviprotokollide alusel ravimeid neile, kellel see diagnoos juba on. Samuti aitame neid, kes alles planeerivad emigreerimist ja kelle jaoks abi puudumine uues kohas võib olla takistuseks lahkumisel."
+         subtitle="Projekt on eakaaslaste konsultantide võrgustik, kes abistavad hulgiskleroosiga patsiente. Vastastikune nõustamine on praktika, kus jagatud kogemustega inimesed, näiteks sclerosis multiplex’i põdejad, pakuvad üksteisele tuge. Nad kasutavad oma isiklikke kogemusi, et pakkuda teistele sarnastes olukordades abi ja praktilisi nõuandeid."
     >}}
     {{< hextra/feature-card
          icon="users"
@@ -54,4 +54,3 @@ Lühis
          subtitle="Kui soovite saada vabatahtlikuks või teha koostööd, kirjutage e-posti aadressile **theshortcircuitorg\@gmail.com**. Samuti saate meie projekti toetada rahaliselt või levitades infot sotsiaalmeedias."
     >}}
 {{< /hextra/feature-grid >}}
-

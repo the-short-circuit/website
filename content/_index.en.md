@@ -26,7 +26,7 @@ The Short Circuit
     {{< hextra/feature-card
          icon="information-circle"
          title="What do we do?"
-         subtitle="Project staff provides informational and psychological support to refugees and immigrants from Ukraine, Russia, and Belarus with a confirmed diagnosis of multiple sclerosis. Our primary focus is to create a unified algorithm for accessing medical care and obtaining medications according to various treatment protocols for those who already have such a diagnosis. We also assist those who are planning to immigrate and for whom the lack of support in a new place could be a barrier to departure."
+         subtitle="The project represents a network of peer counselors focused on providing assistance to patients with multiple sclerosis. \"Peer counseling\" specifically refers to the practice where individuals with shared experiences, such as living with MS, provide support and guidance to one another. Peer counselors leverage their personal experiences to offer empathy, understanding, and practical advice to others in similar situations."
     >}}
     {{< hextra/feature-card
          icon="users"
@@ -54,4 +54,3 @@ The Short Circuit
          subtitle="If you would like to become a volunteer or offer collaboration, please email us at **theshortcircuitorg\@gmail.com**. You can also support our project financially or by sharing about it on social media."
     >}}
 {{< /hextra/feature-grid >}}
-
